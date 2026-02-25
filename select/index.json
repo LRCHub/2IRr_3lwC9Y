@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "drive ME crazy!",
+  "base_artist": "Lil Yachty",
+  "createdAt": "2026-02-25T14:20:34.859084Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drive Me Crazy",
+      "artist": "MARUV",
+      "has_synced": false,
+      "path": "select/01_Drive_Me_Crazy_MARUV.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Drive Me Crazy",
+      "artist": "Quiet Riot",
+      "has_synced": true,
+      "path": "select/02_You_Drive_Me_Crazy_Quiet_Riot.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drive Me Crazy",
+      "artist": "Ratt",
+      "has_synced": true,
+      "path": "select/03_Drive_Me_Crazy_Ratt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drive Me Crazy",
+      "artist": "Kaytranada feat. Vic Mensa",
+      "has_synced": true,
+      "path": "select/04_Drive_Me_Crazy_Kaytranada_feat._Vic_Mensa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(You Drive Me) Crazy",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/05_(You_Drive_Me)_Crazy_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(You Drive Me) Crazy - The Stop Remix!",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/06_(You_Drive_Me)_Crazy_-_The_Stop_Remix!_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Drive Me Crazy (The Stop Remix !)",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/07_You_Drive_Me_Crazy_(The_Stop_Remix_!)_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "(You Drive Me) Crazy (The Stop remix!)",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/08_(You_Drive_Me)_Crazy_(The_Stop_remix!)_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(You Drive Me) Crazy (The Stop Remix!)",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/09_(You_Drive_Me)_Crazy_(The_Stop_Remix!)_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drive Me, Crazy",
+      "artist": "Orville Peck",
+      "has_synced": true,
+      "path": "select/10_Drive_Me,_Crazy_Orville_Peck.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(You Drive Me) Crazy",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/11_(You_Drive_Me)_Crazy_Britney_Spears.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DRIVE ME CRAZY",
+      "artist": "KAYTRANADA",
+      "has_synced": true,
+      "path": "select/12_DRIVE_ME_CRAZY_KAYTRANADA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You Drive Me Crazy",
+      "artist": "Shakin' Stevens",
+      "has_synced": true,
+      "path": "select/13_You_Drive_Me_Crazy_Shakin'_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(You Drive Me) Crazy",
+      "artist": "Richard Cheese",
+      "has_synced": true,
+      "path": "select/14_(You_Drive_Me)_Crazy_Richard_Cheese.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Before I Lay (You Drive Me Crazy)",
+      "artist": "CeCe Peniston",
+      "has_synced": true,
+      "path": "select/15_Before_I_Lay_(You_Drive_Me_Crazy)_CeCe_Peniston.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(You Drive Me) Crazy",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/16_(You_Drive_Me)_Crazy_Britney_Spears.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "drive ME crazy!",
+      "artist": "Lil Yachty",
+      "has_synced": false,
+      "path": "select/pl_01_drive_ME_crazy!_Lil_Yachty.txt"
+    }
+  ]
+}
